@@ -303,25 +303,9 @@ While this is a personal learning portfolio, suggestions and feedback are always
 
 <div align="center">
 
-www.linkedin.com/in/qayas-mehtab[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/qayasmehtab)
+www.linkedin.com/in/qayas-mehtab
+[GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/qayasmehtab)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](qayasabbasi98@gmai.com)
 
 </div>
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you find it helpful!
-
-**Made with ❤️ and Python**
-
-*Last Updated: November 2025*
-
-</div>
