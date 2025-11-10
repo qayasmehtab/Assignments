@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 *A comprehensive journey from Python fundamentals to professional data analysis projects*
 
