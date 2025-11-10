@@ -185,40 +185,6 @@ Ensure you have Python 3.8 or higher installed:
 python --version
 ```
 
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/python-assignments.git
-cd python-assignments
-```
-
-2. **Create virtual environment** (recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### Running Assignments
-
-**For Basic Assignments (01-05):**
-```bash
-cd "Assignment 01 (Python Basics)"
-python main.py
-```
-
-**For Data Analysis Projects (06-08):**
-```bash
-jupyter notebook
-# Open the desired .ipynb file
-```
-
----
 
 ## 📁 Repository Structure
 
