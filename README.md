@@ -175,14 +175,6 @@ Seaborn              ██████████████████░�
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-Ensure you have Python 3.8 or higher installed:
-
-```bash
-python --version
 ```
 
 
@@ -252,17 +244,7 @@ By completing this portfolio, I have developed:
 
 ---
 
-## 🤝 Contributing
 
-While this is a personal learning portfolio, suggestions and feedback are always welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📫 Connect With Me
 
