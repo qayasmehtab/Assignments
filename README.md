@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
-*A comprehensive journey from Python fundamentals to professional data analysis projects*
+*A comprehensive journey from Python fundamentals to professional data analysis *
 
 [Overview](#-overview) • [Assignments](#-assignments) • [Technologies](#-tech-stack) • [Getting Started](#-quick-start)
 
@@ -20,7 +20,7 @@ Welcome to my Python programming portfolio! This repository showcases a progress
 ### 🌟 Highlights
 
 - **8 Comprehensive Assignments** covering core Python to advanced analytics
-- **Real-World Datasets** from TMDb, Google Play Store, and GitHub
+- **Real-World Datasets**  Google Play Store, and GitHub
 - **Professional Code Quality** with documented, clean implementations
 - **Data-Driven Insights** extracted from industry-standard sources
 
